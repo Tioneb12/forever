@@ -6,9 +6,9 @@ name: "theme"
 description: "A brief description of the theme"
 
 section_categories:
-  - name: nav
-  - name: hero
-  - name: blog
+- name: nav
+- name: hero
+- name: blog
 
 # Properties of your theme such as the primary color, font name, ...etc.
 style_settings: [ ]
